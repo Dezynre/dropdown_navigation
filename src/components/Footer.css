@@ -1,0 +1,13 @@
+
+
+.attribution {
+    font-size: 13px; text-align: center;
+    padding: 2.5em 1em;
+    font-style: italic;
+    color: hsl(0, 0%, 41%);
+}
+
+.attribution a {
+    color: hsl(51, 75%, 43%);
+    font-style: italic; 
+}
