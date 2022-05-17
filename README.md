@@ -8,3 +8,5 @@ The aim of this project was to buld an introduction section with a dropdown navi
 
 I used the React JavaScript library to complete this project
 
+View Live Site
+https://bright-taffy-a1cf6e.netlify.app/
